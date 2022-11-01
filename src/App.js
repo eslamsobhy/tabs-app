@@ -65,6 +65,9 @@ function App() {
           );
         })}
       </article>
+      <button type="button" className="btn">
+        more info
+      </button>
     </section>
   );
 }
